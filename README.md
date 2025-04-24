@@ -16,3 +16,5 @@ Studying how phishing works and creating one
 - Attack: Site Cloner
 - Get machine ip: ifconfig
 - URL usued: https://www.instagram.com
+
+![Results](https://github.com/PedroFreecss/phishing/blob/main/resuults.png)
